@@ -8,3 +8,4 @@ script that creates a directory named my first directory in the /tmp/ directory 
 Move the file betty from /tmp/ to /tmp/my_first_directory: mv /tmp/betty /tmp/my_first_directory
 Delete the file betty. rm betty/tmp/my_first_directory
 directory delete. rmdir tmp/my_first_directory
+script that changes the working directory to the previous one. cd ..
