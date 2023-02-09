@@ -7,3 +7,4 @@ script that adds execute permission to the owner of the file hello. chmod u+x he
 script that adds execute permission to the owner and the group owner, and read permission to other users, to the file hello. chmod u+x, g+x, o+r hello
 script that adds execution permission to the owner, the group owner and the other users, to the file hello. chmod a+x hello
 . James Bond chmod 007 hello
+cript that sets the mode of the file hello to this: chmod 753 hello
