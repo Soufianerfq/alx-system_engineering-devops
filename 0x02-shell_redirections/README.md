@@ -4,3 +4,4 @@
 3: display content of 2 fles: cat file1 file2
 4: display last 10 lines of a file: tail file
 5: display first 10 lines of a file: head file name
+6: display the 3rd line of a file: head -3 file name
