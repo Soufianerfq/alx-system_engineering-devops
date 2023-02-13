@@ -11,3 +11,4 @@
 10: script that deletes all the regular files
 11: Write a script that counts the number of directories and sub-directories in the current director: find . -type d -not -name '.' | wc -1
 12: script that displays the 10 newest files in the current directory:  ls -t1 | head
+13: script that takes a list of words as input and prints only words that appear exactly once. sort | uniq -u
