@@ -1,1 +1,1 @@
-pwd script roll
+advanced shell stuff
