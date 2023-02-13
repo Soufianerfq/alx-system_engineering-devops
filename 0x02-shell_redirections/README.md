@@ -5,4 +5,4 @@
 4: display last 10 lines of a file: tail file
 5: display first 10 lines of a file: head file name
 6: display the 3rd line of a file: head -3 file name | tail -1
-7: creat a file with a weird long name
+7: creat a file with a weird long name.
