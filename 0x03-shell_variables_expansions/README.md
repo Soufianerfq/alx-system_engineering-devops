@@ -5,3 +5,4 @@
 4: Create a script that lists environment variables: printenv
 5: script that lists all local variables and environment variables, and functions: set
 6: Create a script that creates a new local variable: name="value"
+7: Create a script that creates a new global variable: export name="value"
