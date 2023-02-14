@@ -3,3 +3,4 @@
 2: Add /action to the PATH. /action should be the last directory the shell looks into when looking for a program: PATH=$PATH:/action
 3: script that counts the number of directories in the PATH: echo $PATH | tr ':' '\n' | wc -l
 4: Create a script that lists environment variables: printenv
+5: script that lists all local variables and environment variables, and functions: set
