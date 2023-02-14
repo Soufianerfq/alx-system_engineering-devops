@@ -6,3 +6,4 @@
 5: script that lists all local variables and environment variables, and functions: set
 6: Create a script that creates a new local variable: name="value"
 7: Create a script that creates a new global variable: export name="value"
+8: Write a script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
