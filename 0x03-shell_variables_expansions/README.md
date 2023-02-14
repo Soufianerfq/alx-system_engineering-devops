@@ -4,3 +4,4 @@
 3: script that counts the number of directories in the PATH: echo $PATH | tr ':' '\n' | wc -l
 4: Create a script that lists environment variables: printenv
 5: script that lists all local variables and environment variables, and functions: set
+6: Create a script that creates a new local variable: name="value"
